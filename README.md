@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/cihangirceyhan/?hl=tr)](https://www.instagram.com/cihangirceyhan/?hl=tr) 
+[![Instagram Badge](https://img.shields.io/badge/-instagram-000?style=quare&labelColor=000&logo=instagram&logoColor=white&link=https://www.instagram.com/cihangirceyhan/?hl=tr)](https://www.instagram.com/cihangirceyhan/?hl=tr) 
 
 
+
+https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link
