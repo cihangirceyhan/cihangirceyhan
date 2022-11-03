@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/l46CsTPetihC1rX9K/giphy.gif" align="right" widht="400" height="250">
+<img src="https://media.giphy.com/media/5LXMNXs6omQYo/giphy.gif" align="right" widht="400" height="250">
 
 ### Hi there,I'm Cihangir 👋
 
